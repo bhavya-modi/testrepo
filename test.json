@@ -1,5 +1,6 @@
 {
  "id":"1",
  "name":"test",
- "string":"string:
+ "string":"string",
+ "test_data":"this is a test file"
 }
