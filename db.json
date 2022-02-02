@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "1",
+        "database" : "mongodb",
+        "type" : "NoSql"
+    },
+    {
+        "id" : "2",
+        "database" : "RDBMS",
+        "type" : "Relational"
+    },
+    {
+        "id" : "3",
+        "databse" : "MySQL",
+        "type" : "SQL"
+    }
+]
